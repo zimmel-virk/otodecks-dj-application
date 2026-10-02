@@ -1,0 +1,9 @@
+ORIGINAL PROJECT FILE VERIFICATION
+
+All copied original OtoDecks source/project files were verified byte-for-byte against the source archive using SHA-256.
+No original C++ source, header, or JUCE project file was modified.
+
+Excluded only: .DS_Store operating-system metadata.
+
+Original files copied and verified: 28
+Mismatches: 0
